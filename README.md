@@ -1,2 +1,2 @@
 # custom-select-menu
-![](custom-select-menu.png)
+![](custim-select-menu.png)
